@@ -14,7 +14,7 @@ author: 뜨
 
 navbar-links:
   About: "aboutme" # 이렇게 마크다운 문서를 보여줄 수도 있고 (이 때 .md는 뺀 제목만 씁니다)
-  TRPG소개서": "https://docs.google.com/spreadsheets/d/1zqMohCmZlHBORXjnbvKGdVAekQha5SnTIHJ0JWLkaD4/htmlview"
+  TRPG소개서: "https://docs.google.com/spreadsheets/d/1zqMohCmZlHBORXjnbvKGdVAekQha5SnTIHJ0JWLkaD4/htmlview"
   # Links: 
   #  - Learn markdown: "https://www.markdowntutorial.com/" # 이렇게 드롭다운 메뉴를 만들 수도 있습니다.
 
@@ -38,7 +38,8 @@ round-avatar: true
 # 사용하지 않으려면 코드 맨 앞쪽에 '#' 을 붙이고 띄어쓰기 해주세요.
 # 사용하려면 반대로 # 을 지워주세요.
 social-network-links:
-# BlueSKY: "bsky.app/profile/bs.artn.me"
+  BlueSKY: bsky.app/profile/bs.artn.me
+  Misskey: buttersc.one/@orzo
 #  email: "someone@example.com"
 #  facebook: deanattali
 #  github: daattali
@@ -70,6 +71,8 @@ social-network-links:
 
 # 포스트 하단에 활성화할 SNS 공유 아이콘입니다. 사용하지 않으려면 false 로 지정해주세요.
 share-links-active:
+  bluesky: true
+  Misskey: true
   twitter: false
   facebook: false
   linkedin: false
