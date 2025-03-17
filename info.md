@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About this site
-subtitle: 안내
+title: 안내
+subtitle: 암호
 ---
 
 대부분 로그 암호는 첫 페이지 힌트를 참고하세요.
