@@ -13,7 +13,7 @@ author: 뜨
 # --- 상단에 표시될 메뉴 이름들 --- #
 
 navbar-links:
-  About: "Info" # 이렇게 마크다운 문서를 보여줄 수도 있고 (이 때 .md는 뺀 제목만 씁니다)
+  Info: "info" # 이렇게 마크다운 문서를 보여줄 수도 있고 (이 때 .md는 뺀 제목만 씁니다)
   TRPG소개서: "https://docs.google.com/spreadsheets/d/1zqMohCmZlHBORXjnbvKGdVAekQha5SnTIHJ0JWLkaD4/htmlview"
   BlueSKY: "https://bsky.app/profile/bs.artn.me"
   Misskey: "https://buttersc.one/@orzo"
