@@ -31,7 +31,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+# title-img: /path/to/image
 
 
 # --- 하단 SNS 링크 --- #
@@ -41,15 +41,15 @@ round-avatar: true
 # 사용하려면 반대로 # 을 지워주세요.
 
 social-network-links:
-  BlueSKY: "http://bsky.app/profile/bs.artn.me"
-  Misskey: "http://buttersc.one/@orzo"
+#  BlueSKY: "http://bsky.app/profile/bs.artn.me"
+#  Misskey: "http://buttersc.one/@orzo"
 #  email: "someone@example.com"
 #  facebook: deanattali
 #  github: daattali
-  twitter: daattali
+#  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
-  medium: yourname
+#  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -74,17 +74,17 @@ social-network-links:
 
 # 포스트 하단에 활성화할 SNS 공유 아이콘입니다. 사용하지 않으려면 false 로 지정해주세요.
 share-links-active:
-  bluesky: true
+  bluesky: false
   Misskey: false
-  twitter: true
+  twitter: false
   facebook: false
   linkedin: false
   vk: false
-  medium: true
+  medium: false
 
 # 웹사이트 링크를 사이트 하단에 어떻게 표시할지 설정합니다.
 # 필요 없다면 아래 문장을 한 줄 지워주세요.
-# url-pretty: "orzotea.github.io"
+url-pretty: "orzotea.github.io"
 
 # --------- 이 아래로는 관련 지식이 없다면 절대 변경하지 마세요. -----------
 
