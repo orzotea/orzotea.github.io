@@ -1,3 +1,16 @@
+# 메모
+파라미터 위아래로 - 3개씩
+layout: post/ 암호화 권장 minimal/ 기타page
+title: 제목
+subtitle: 부제목
+draft: 숨김일 때 true
+permalink: 고유주소
+tags: [하나,둘,셋] 형식
+
+좌우로 { }
+% include_relative ㅇㅇㅇ.html %
+
+
 # Trpg 로그 백업용 블로그 만들기
 **feat. Beautiful Jekyll**
 
