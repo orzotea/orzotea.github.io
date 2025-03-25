@@ -5,7 +5,7 @@
 # --- 필수 설정--- #
 
 # 웹사이트 이름
-title: ✦ORPG log archive
+title: ✦ ORPG log archive
 
 # 사이트에 표시 될 닉네임
 author: 주뜨 
@@ -39,6 +39,7 @@ round-avatar: true
 # 하단에 보여질 SNS 링크 아이콘입니다. 
 # 사용하지 않으려면 코드 맨 앞쪽에 '#' 을 붙이고 띄어쓰기 해주세요.
 # 사용하려면 반대로 # 을 지워주세요.
+
 social-network-links:
 #  BlueSKY: bsky.app/profile/bs.artn.me
 #  Misskey: buttersc.one/@orzo
@@ -48,7 +49,7 @@ social-network-links:
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
-#  medium: yourname
+  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
