@@ -14,7 +14,7 @@ permalink: 고유주소
 tags: [하나,둘,셋] 형식
   
   
-좌우로 { }
+본문은 아래 좌우로 { }
   
 % include_relative ㅇㅇㅇ.html %
   
