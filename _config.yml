@@ -41,8 +41,8 @@ round-avatar: true
 # 사용하려면 반대로 # 을 지워주세요.
 
 social-network-links:
-#  BlueSKY: bsky.app/profile/bs.artn.me
-#  Misskey: buttersc.one/@orzo
+  BlueSKY: "http://bsky.app/profile/bs.artn.me"
+  Misskey: "http://buttersc.one/@orzo"
 #  email: "someone@example.com"
 #  facebook: deanattali
 #  github: daattali
@@ -74,7 +74,7 @@ social-network-links:
 
 # 포스트 하단에 활성화할 SNS 공유 아이콘입니다. 사용하지 않으려면 false 로 지정해주세요.
 share-links-active:
-  bluesky: false
+  bluesky: true
   Misskey: false
   twitter: false
   facebook: false
