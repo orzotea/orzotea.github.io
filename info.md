@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 안내
-subtitle: 
+title: 
+subtitle: 소개
 ---
 
 대부분 로그 암호는 orzo
