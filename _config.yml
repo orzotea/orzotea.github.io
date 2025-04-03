@@ -8,7 +8,7 @@
 title: ✦ ORZO
 
 # 사이트에 표시 될 닉네임
-author: 주뜨·orzo 
+author: 주뜨 · orzo 
 
 # --- 상단에 표시될 메뉴 이름들 --- #
 
@@ -84,7 +84,7 @@ share-links-active:
 
 # 웹사이트 링크를 사이트 하단에 어떻게 표시할지 설정합니다.
 # 필요 없다면 아래 문장을 한 줄 지워주세요.
-url-pretty: "orzotea.github.io"
+# url-pretty: "orzotea.github.io"
 
 # --------- 이 아래로는 관련 지식이 없다면 절대 변경하지 마세요. -----------
 
@@ -202,7 +202,7 @@ timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
