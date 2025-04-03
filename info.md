@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 안내
+title: Hint
 ---
 
-hint: o***
+o***
       
