@@ -2,6 +2,7 @@
 layout: null
 ---
 
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css");
 @import url("pygment_highlights.css");
 
 /* --- General --- */
@@ -12,7 +13,7 @@ html {
 }
 
 body {
-  font-family: 'Noto Sans KR', 'Open Sans', sans-serif;
+  font-family: "Pretendard Variable", Pretendard, 'Noto Sans KR', 'Open Sans', sans-serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -23,12 +24,12 @@ body {
   {% endif %}
 }
 p {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: "Pretendard Variable", Pretendard, 'Noto Sans KR', sans-serif;
   line-height: 1.5;
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Noto Sans KR', 'Open Sans', sans-serif;
+  font-family: "Pretendard Variable", Pretendard, 'Noto Sans KR', 'Open Sans', sans-serif;
   font-weight: 700;
   line-height: 1.1;
 }
@@ -56,7 +57,7 @@ a:focus {
 }
 blockquote {
   color: #808080;
-  font-style: italic;
+  font-style: nomal;
 }
 blockquote p:first-child {
   margin-top: 0;
