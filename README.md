@@ -24,8 +24,12 @@ tags: [하나,둘,셋] 형식
 2. 왼쪽 미리보기 상태를 전부 복사해서 한글과 컴퓨터에 인터넷 문서 소스로 C+A+V 붙여넣는다.
   
 3. 이미지 경로는 /portrait/파일명
+/portrait/vasrutill02.png
+/portrait/fray02.png
+/orzo/fray02.png
+/orzo/gm.png
 
-4. html로 저장
+5. html로 저장
   
   
 # Trpg 로그 백업용 블로그 만들기
