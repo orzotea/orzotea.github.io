@@ -29,7 +29,7 @@ tags: [하나,둘,셋] 형식
 
 /portrait/fray02.png
 
-/orzo/fray02.png
+/portrait/orzo.png
 
 /orzo/gm.png
 
