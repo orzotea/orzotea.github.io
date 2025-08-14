@@ -31,7 +31,7 @@ tags: [하나,둘,셋] 형식
 
 /portrait/orzo.png
 
-/orzo/gm.png
+/portrait/gm.png
 
 
 5. html로 저장
