@@ -81,7 +81,7 @@ a:focus {
 }
 blockquote {
   color: var(--mid-col);
-  font-style: italic;
+  font-style: normal;
 }
 blockquote p:first-child {
   margin-top: 0;
@@ -523,7 +523,7 @@ footer .footer-custom-content {
 .post-heading .post-meta {
   color: var(--mid-col);
   font-size: 1.125rem;
-  font-style: italic;
+  font-style: normal;
   margin: 0 0 0.625rem;
   font-family: var(--body-font);
 }
@@ -662,7 +662,7 @@ footer .footer-custom-content {
 
 #full-tags-list .tag-entry .entry-date {
   color: var(--mid-col);
-  font-style: italic;
+  font-style: normal;
   font-size: 1rem;
 }
 
@@ -990,7 +990,7 @@ pre {
   text-align: center;
   font-size: 0.875rem;
   padding: 0.625rem;
-  font-style: italic;
+  font-style: normal;
   color: #777;
   margin: 0;
   display: block;
