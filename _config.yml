@@ -31,14 +31,6 @@ round-avatar: true
 # then specify the following parameter
 # title-img: /path/to/image
 
-
-# --- 하단 SNS 링크 --- #
-
-# 하단에 보여질 SNS 링크 아이콘입니다. 
-# 웹사이트 링크를 사이트 하단에 어떻게 표시할지 설정합니다.
-# 필요 없다면 아래 문장을 한 줄 지워주세요.
-url-pretty: "artn.me"
-
 # --------- 이 아래로는 관련 지식이 없다면 절대 변경하지 마세요. -----------
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
