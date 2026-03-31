@@ -14,9 +14,9 @@ author: 주뜨
 
 navbar-links:
   About: "aboutme" # 이렇게 마크다운 문서를 보여줄 수도 있고 (이 때 .md는 뺀 제목만 씁니다)
-  SNS: 
-    - BlueSKY: "https://bsky.app/profile/bs.artn.me" # 이렇게 외부 링크로 이어지게 할 수도 있습니다.
-    - Mastodon: "https://uri.life/@orzo"
+  BlueSKY: "https://bsky.app/profile/bs.artn.me" # 이렇게 외부 링크로 이어지게 할 수도 있습니다.
+  Mastodon: "https://uri.life/@orzo"
+  Blog: "http://artn.me"
 
 # --- 로고 --- #
 
