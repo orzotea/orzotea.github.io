@@ -5,10 +5,10 @@
 # --- 필수 설정--- #
 
 # 웹사이트 이름
-title: orzo stew
+title: ORZOTEA
 
 # 사이트에 표시 될 닉네임
-author: My nickname
+author: ORZO
 
 # --- 상단에 표시될 메뉴 이름들 --- #
 
@@ -39,6 +39,7 @@ round-avatar: true
 # 사용하려면 반대로 # 을 지워주세요.
 social-network-links:
   email: "someone@example.com"
+#  bluesky: bs.artn.me
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
@@ -69,6 +70,7 @@ social-network-links:
 
 # 포스트 하단에 활성화할 SNS 공유 아이콘입니다. 사용하지 않으려면 false 로 지정해주세요.
 share-links-active:
+  bluesky: true
   twitter: true
   facebook: false
   linkedin: false
